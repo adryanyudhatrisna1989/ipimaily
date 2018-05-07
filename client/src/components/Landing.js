@@ -4,7 +4,7 @@ const Landing = () => {
   return (
     <div style={{ textAlign: "center" }}>
       <h1>Ipimaily</h1>
-      Collect Feedback form your users
+      Collect Feedback
     </div>
   );
 };
